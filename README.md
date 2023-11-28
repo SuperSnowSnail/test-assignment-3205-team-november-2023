@@ -1,7 +1,5 @@
 # Test assignment 3205.team November 2023
 
-## [Demo here]()
-
 ## Deploy commands:
 
 Build frontend:
